@@ -13,7 +13,7 @@ hugo==0.5.2
 idna==2.10
 multidict==4.7.6
 Pillow==7.1.2
-pipenv==2020.6.2
+pipenv==2022.1.8
 pytz==2020.1
 selenium==3.14.1
 six==1.15.0
